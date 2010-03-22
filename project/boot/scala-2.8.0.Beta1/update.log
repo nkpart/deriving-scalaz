@@ -1,0 +1,425 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/Users/nkpart/bin/sbt-launcher-0.5.6.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/Users/nkpart/p/deriving-scalaz/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/Users/nkpart/bin/sbt-launcher-0.5.6.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Libraries'
+setting 'java.vm.version' to '14.3-b01-101'
+setting 'awt.nativeDoubleBuffering' to 'true'
+setting 'gopherProxySet' to 'false'
+setting 'mrj.build' to '10M3025'
+setting 'java.vm.vendor' to 'Apple Inc.'
+setting 'java.vendor.url' to 'http://www.apple.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'user.country' to 'US'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/Users/nkpart/p/deriving-scalaz'
+setting 'java.runtime.version' to '1.6.0_17-b04-248-10M3025'
+setting 'java.awt.graphicsenv' to 'apple.awt.CGraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/endorsed'
+setting 'os.arch' to 'x86_64'
+setting 'java.io.tmpdir' to '/var/folders/rC/rC4eQFBLE80XpZgsYf4QNE+++TI/-Tmp-/'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'os.name' to 'Mac OS X'
+setting 'sun.jnu.encoding' to 'MacRoman'
+setting 'java.library.path' to '.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java'
+setting 'sbt.boot' to 'true'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '50.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Server Compiler'
+setting 'os.version' to '10.6.2'
+setting 'http.nonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'user.home' to '/Users/nkpart'
+setting 'user.timezone' to 'Australia/Sydney'
+setting 'scala.home' to '/Users/nkpart/p/deriving-scalaz/project/boot/scala-2.8.0.Beta1'
+setting 'java.awt.printerjob' to 'apple.awt.CPrinterJob'
+setting 'file.encoding' to 'MacRoman'
+setting 'java.specification.version' to '1.6'
+setting 'java.class.path' to '/Users/nkpart/bin/sbt-launcher.jar:/Users/nkpart/bin/jrebel.jar'
+setting 'user.name' to 'nkpart'
+setting 'java.vm.specification.version' to '1.0'
+setting 'java.home' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'awt.toolkit' to 'apple.awt.CToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.6.0_17'
+setting 'java.ext.dirs' to '/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext'
+setting 'sun.boot.class.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/charsets.jar:/Users/nkpart/bin/jrebel.jar'
+setting 'java.vendor' to 'Apple Inc.'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.apple.com/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'mrj.version' to '1060.1.6.0_17-248'
+setting 'socksNonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'ftp.nonProxyHosts' to 'local|*.local|169.254/16|*.169.254/16'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/Users/nkpart/.ivy2'
+setting 'ivy.home' to '/Users/nkpart/.ivy2'
+no default ivy user dir defined: set to /Users/nkpart/.ivy2
+setting 'ivy.cache.dir' to '/Users/nkpart/.ivy2/cache'
+no default cache defined: set to /Users/nkpart/.ivy2/cache
+setting 'ivy.basedir' to '/Users/nkpart/p/deriving-scalaz/project/boot/scala-2.8.0.Beta1'
+setting 'basedir' to '/Users/nkpart/p/deriving-scalaz/project/boot/scala-2.8.0.Beta1'
+:: resolving dependencies :: sbt#boot;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for sbt#boot;1.0 [default]
+loadData of sbt#boot;1.0 of rootConf=default
+== resolving dependencies sbt#boot;1.0->sbt#simple-build-tool;0.7.0 [default->2.8.0.Beta1]
+loadData of sbt#simple-build-tool;0.7.0 of rootConf=default
+	using redefined-public to resolve sbt#simple-build-tool;0.7.0
+redefined-public: Checking cache for: dependency: sbt#simple-build-tool;0.7.0 {default=[2.8.0.Beta1]}
+redefined-public: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+redefined-public: no latest strategy defined: using default
+local: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+		tried /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+	local: resource not reachable for sbt#simple-build-tool;0.7.0: res=/Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+	 trying /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+		tried /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+	local: resource not reachable for sbt#simple-build-tool;0.7.0: res=/Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+	local: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Maven2 Local: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+		tried file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	Maven2 Local: resource not reachable for sbt#simple-build-tool;0.7.0: res=file:/Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	 trying file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+		tried file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven2 Local: resource not reachable for sbt#simple-build-tool;0.7.0: res=file:/Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven2 Local: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Maven Central: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+		tried http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+HTTP response status: 404 url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	Maven Central: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	 trying http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+		tried http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+HTTP response status: 404 url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven Central: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven Central: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Sbt Repository: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+		tried http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+HTTP response status: 404 url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+CLIENT ERROR: Not Found url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+	Sbt Repository: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+	 trying http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+		tried http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+HTTP response status: 404 url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+CLIENT ERROR: Not Found url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+	Sbt Repository: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+	Sbt Repository: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+WARN: 	module not found: sbt#simple-build-tool;0.7.0
+WARN: ==== local: tried
+WARN:   /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+WARN: ==== Maven2 Local: tried
+WARN:   file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+WARN: ==== Maven Central: tried
+WARN:   http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+WARN: ==== Sbt Repository: tried
+WARN:   http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+Nbr of module to sort : 0
+	resolved ivy file produced in /Users/nkpart/.ivy2/cache/resolved-sbt-boot-1.0.xml
+:: downloading artifacts ::
+:: resolution report :: resolve 1799ms :: artifacts dl 0ms
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+WARN: 	::          UNRESOLVED DEPENDENCIES         ::
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+WARN: 	:: sbt#simple-build-tool;0.7.0: not found
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+
+Nbr of module to sort : 0
+	report for sbt#boot;1.0 default produced in /Users/nkpart/.ivy2/cache/sbt-boot-default.xml
+	resolve done (1799ms resolve - 0ms download)
+
+:: problems summary ::
+:::: WARNINGS
+		module not found: sbt#simple-build-tool;0.7.0
+
+	==== local: tried
+
+	  /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+
+	==== Maven2 Local: tried
+
+	  file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+
+	==== Maven Central: tried
+
+	  http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+
+	==== Sbt Repository: tried
+
+	  http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+		::          UNRESOLVED DEPENDENCIES         ::
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+		:: sbt#simple-build-tool;0.7.0: not found
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+:: USE VERBOSE OR DEBUG MESSAGE LEVEL FOR MORE DETAILS
+java.lang.RuntimeException: not found
+	at org.apache.ivy.core.resolve.IvyNode.loadData(IvyNode.java:236)
+	at org.apache.ivy.core.resolve.VisitNode.loadData(VisitNode.java:271)
+	at org.apache.ivy.core.resolve.ResolveEngine.fetchDependencies(ResolveEngine.java:671)
+	at org.apache.ivy.core.resolve.ResolveEngine.doFetchDependencies(ResolveEngine.java:757)
+	at org.apache.ivy.core.resolve.ResolveEngine.fetchDependencies(ResolveEngine.java:679)
+	at org.apache.ivy.core.resolve.ResolveEngine.getDependencies(ResolveEngine.java:551)
+	at org.apache.ivy.core.resolve.ResolveEngine.resolve(ResolveEngine.java:235)
+	at sbt.boot.Update.resolve(Update.scala:136)
+	at sbt.boot.Update.update(Update.scala:118)
+	at sbt.boot.Update.update(Update.scala:90)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:71)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at scala.List.foreach(List.scala:834)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:55)
+	at sbt.boot.Update$.apply(Update.scala:37)
+	at sbt.boot.Setup.getLoader(Boot.scala:248)
+	at sbt.boot.Setup.loader(Boot.scala:216)
+	at sbt.boot.Setup.loader(Boot.scala:202)
+	at sbt.boot.Boot$.load(Boot.scala:80)
+	at sbt.boot.Boot$.boot(Boot.scala:55)
+	at sbt.boot.Boot$.main(Boot.scala:33)
+	at sbt.boot.Boot.main(Boot.scala)
+setting 'ivy.basedir' to '/Users/nkpart/p/deriving-scalaz/project/boot/scala-2.8.0.Beta1'
+'basedir' already set: discarding '/Users/nkpart/p/deriving-scalaz/project/boot/scala-2.8.0.Beta1'
+:: resolving dependencies :: sbt#boot;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for sbt#boot;1.0 [default]
+loadData of sbt#boot;1.0 of rootConf=default
+== resolving dependencies sbt#boot;1.0->sbt#simple-build-tool;0.7.0 [default->2.8.0.Beta1]
+loadData of sbt#simple-build-tool;0.7.0 of rootConf=default
+	using redefined-public to resolve sbt#simple-build-tool;0.7.0
+redefined-public: Checking cache for: dependency: sbt#simple-build-tool;0.7.0 {default=[2.8.0.Beta1]}
+redefined-public: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+redefined-public: no latest strategy defined: using default
+local: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+		tried /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+	local: resource not reachable for sbt#simple-build-tool;0.7.0: res=/Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+	 trying /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+		tried /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+	local: resource not reachable for sbt#simple-build-tool;0.7.0: res=/Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+	local: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Maven2 Local: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+		tried file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	Maven2 Local: resource not reachable for sbt#simple-build-tool;0.7.0: res=file:/Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	 trying file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+		tried file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven2 Local: resource not reachable for sbt#simple-build-tool;0.7.0: res=file:/Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven2 Local: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Maven Central: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+		tried http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+HTTP response status: 404 url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	Maven Central: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+	 trying http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+		tried http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+HTTP response status: 404 url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven Central: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+	Maven Central: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+Sbt Repository: no namespace defined: using system
+	no ivy file in cache for sbt#simple-build-tool;0.7.0: tried /Users/nkpart/.ivy2/cache/sbt/simple-build-tool/ivy-0.7.0.xml
+	 trying http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+		tried http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+HTTP response status: 404 url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+CLIENT ERROR: Not Found url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+	Sbt Repository: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+	 trying http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+		tried http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+HTTP response status: 404 url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+CLIENT ERROR: Not Found url=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+	Sbt Repository: resource not reachable for sbt#simple-build-tool;0.7.0: res=http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+	Sbt Repository: no ivy file nor artifact found for sbt#simple-build-tool;0.7.0
+WARN: 	module not found: sbt#simple-build-tool;0.7.0
+WARN: ==== local: tried
+WARN:   /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+WARN: ==== Maven2 Local: tried
+WARN:   file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+WARN: ==== Maven Central: tried
+WARN:   http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+WARN: ==== Sbt Repository: tried
+WARN:   http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+WARN:   -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+WARN:   http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+Nbr of module to sort : 0
+	resolved ivy file produced in /Users/nkpart/.ivy2/cache/resolved-sbt-boot-1.0.xml
+:: downloading artifacts ::
+:: resolution report :: resolve 1537ms :: artifacts dl 0ms
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+WARN: 	::          UNRESOLVED DEPENDENCIES         ::
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+WARN: 	:: sbt#simple-build-tool;0.7.0: not found
+WARN: 	::::::::::::::::::::::::::::::::::::::::::::::
+
+Nbr of module to sort : 0
+	report for sbt#boot;1.0 default produced in /Users/nkpart/.ivy2/cache/sbt-boot-default.xml
+	resolve done (1537ms resolve - 0ms download)
+
+:: problems summary ::
+:::: WARNINGS
+		module not found: sbt#simple-build-tool;0.7.0
+
+	==== local: tried
+
+	  /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/ivys/ivy.xml
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  /Users/nkpart/.ivy2/local/sbt/simple-build-tool/0.7.0/jars/simple-build-tool.jar
+
+	==== Maven2 Local: tried
+
+	  file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  file:///Users/nkpart/.m2/repository/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+
+	==== Maven Central: tried
+
+	  http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.pom
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  http://repo1.maven.org/maven2/sbt/simple-build-tool/0.7.0/simple-build-tool-0.7.0.jar
+
+	==== Sbt Repository: tried
+
+	  http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/ivys/ivy.xml
+
+	  -- artifact sbt#simple-build-tool;0.7.0!simple-build-tool.jar:
+
+	  http://simple-build-tool.googlecode.com/svn/artifacts/0.7.0/jars/simple-build-tool.jar
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+		::          UNRESOLVED DEPENDENCIES         ::
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+		:: sbt#simple-build-tool;0.7.0: not found
+
+		::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+:: USE VERBOSE OR DEBUG MESSAGE LEVEL FOR MORE DETAILS
+java.lang.RuntimeException: not found
+	at org.apache.ivy.core.resolve.IvyNode.loadData(IvyNode.java:236)
+	at org.apache.ivy.core.resolve.VisitNode.loadData(VisitNode.java:271)
+	at org.apache.ivy.core.resolve.ResolveEngine.fetchDependencies(ResolveEngine.java:671)
+	at org.apache.ivy.core.resolve.ResolveEngine.doFetchDependencies(ResolveEngine.java:757)
+	at org.apache.ivy.core.resolve.ResolveEngine.fetchDependencies(ResolveEngine.java:679)
+	at org.apache.ivy.core.resolve.ResolveEngine.getDependencies(ResolveEngine.java:551)
+	at org.apache.ivy.core.resolve.ResolveEngine.resolve(ResolveEngine.java:235)
+	at sbt.boot.Update.resolve(Update.scala:136)
+	at sbt.boot.Update.update(Update.scala:118)
+	at sbt.boot.Update.update(Update.scala:97)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:71)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at scala.List.foreach(List.scala:834)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:55)
+	at sbt.boot.Update$.apply(Update.scala:37)
+	at sbt.boot.Setup.getLoader(Boot.scala:248)
+	at sbt.boot.Setup.loader(Boot.scala:216)
+	at sbt.boot.Setup.loader(Boot.scala:202)
+	at sbt.boot.Boot$.load(Boot.scala:80)
+	at sbt.boot.Boot$.boot(Boot.scala:55)
+	at sbt.boot.Boot$.main(Boot.scala:33)
+	at sbt.boot.Boot.main(Boot.scala)
+Error retrieving required libraries
+	at sbt.boot.Update.resolve(Update.scala:141)
+	at sbt.boot.Update.update(Update.scala:118)
+	at sbt.boot.Update.update(Update.scala:97)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:71)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at sbt.boot.Update$$anonfun$sbt$boot$Update$$update$1.apply(Update.scala:55)
+	at scala.List.foreach(List.scala:834)
+	at sbt.boot.Update.sbt$boot$Update$$update(Update.scala:55)
+	at sbt.boot.Update$.apply(Update.scala:37)
+	at sbt.boot.Setup.getLoader(Boot.scala:248)
+	at sbt.boot.Setup.loader(Boot.scala:216)
+	at sbt.boot.Setup.loader(Boot.scala:202)
+	at sbt.boot.Boot$.load(Boot.scala:80)
+	at sbt.boot.Boot$.boot(Boot.scala:55)
+	at sbt.boot.Boot$.main(Boot.scala:33)
+	at sbt.boot.Boot.main(Boot.scala)
+Error retrieving required libraries
