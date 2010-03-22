@@ -1,0 +1,6 @@
+.DS_Store
+out
+target
+project/boot
+lib_managed
+WEB-INF
